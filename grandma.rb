@@ -1,8 +1,7 @@
 # Write a speak_to_grandma method.
 def speak_to_grandma(string)
-end
-  return "I LOVE YOU TOO PUMPKIN!"
-  if string == "I LOVE YOU GRANDMA!"
+  if string == string.upcase
+    "NO, NOT SINCE 1938!"
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).

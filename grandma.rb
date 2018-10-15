@@ -2,7 +2,6 @@
 
 if speak_to_grandma == "I LOVE YOU GRANDMA!"
   puts "I LOVE YOU TOO PUMPKIN!"
-elsif speak_to_grandma ==
 end
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
